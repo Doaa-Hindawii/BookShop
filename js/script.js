@@ -267,10 +267,11 @@ function getUser() {
   //console.log(cookies.getCookie("userName"));
 	if(getCookie("userName")) {
     console.log(getCookie("userName"));
-		document.getElementById('login-btn').style.display = 'none';
+    document.getElementById('login-btn').style.display = "none";
 		document.getElementById('name').innerText = getCookie("userName");
+    document.getElementById('name').style.display = "inline-block";
 		//loadJSON(PATH);
-	};
+  };
 }
 
 //document.getElementById("name").innerText = getCookie("userName");
