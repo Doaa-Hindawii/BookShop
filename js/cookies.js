@@ -17,8 +17,9 @@ function getCookie(keyName) {
             return cookies[i][1];
         }
     }
-
-    return "the cookie you want to get is not existed!";
+    document.getElementById('login-btn').style.display = 'inline-block';
+    document.getElementById('name').style.display = 'none';
+    //return "the cookie you want to get is not existed!";
 }
 //set new cookie
 function setCookie(cookieName, cookieValue, expiryDate) {
