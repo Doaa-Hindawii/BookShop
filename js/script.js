@@ -264,7 +264,7 @@ function getMystery() {
 //Cookies
 function getUser() {
   //console.log("Doaa");
-  //console.log(getCookie("userName"));
+  //console.log(cookies.getCookie("userName"));
 	if(getCookie("userName")) {
     console.log(getCookie("userName"));
 		document.getElementById('login-btn').style.display = 'none';
