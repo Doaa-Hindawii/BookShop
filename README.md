@@ -22,7 +22,5 @@ To build I followed the following steps:
 1. Adding functionality to distinguish the section in view.
 1. Adding functionality to scroll to sections.
 1. Refactoring and testing the performance.
- 
-### 👌 Result 
 
 # Demo => https://book-shop-store.netlify.app 
