@@ -14,7 +14,7 @@ The task was to build a resposive Website and dynamically built navigation.
 - In addition, the navigation items when clicked smoothly scroll to the corresponding section.
 
 ### Building
-To build I followed the following steps: 
+To build we followed the following steps: 
 
 1. Setting up the environment
 1. Building out HTML with at least three content sections with my team.
