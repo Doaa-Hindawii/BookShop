@@ -7,7 +7,7 @@
 ### Project Description
 The **BookShop** website is created as a part of my Scholarship at **ITI**.
 The task was to build a resposive Website and dynamically built navigation. 
-- I made a JSON file and presenting the books from it to the Website.
+- I made a JSON file and presented the books from it to the Website.
 - There's adding to cart developed by *Mona Mansour*.
 - There's an order page (built by using JQuery).
 - There are cookies too. When you sign in your name it will display on the top of the home page.
