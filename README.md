@@ -23,6 +23,6 @@ To build we followed the following steps:
 1. Adding functionality to scroll to sections.
 1. Refactoring and testing the performance.
 
-#Demo => https://book-shop-store.netlify.app
+### Demo => https://book-shop-store.netlify.app
 
 #Run it with live server...
