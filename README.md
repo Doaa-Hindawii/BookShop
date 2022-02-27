@@ -13,6 +13,13 @@ The task was to build a resposive Website and dynamically built navigation.
 - There are cookies too. When you sign in your name it will display on the top of the home page.
 - In addition, the navigation items when clicked smoothly scroll to the corresponding section.
 
+## Result
+![screenshot](image/bookshop.png)
+
+![screenshot](image/books.png)
+
+![screenshot](image/book2.png)
+
 ### Building
 To build we followed the following steps: 
 
@@ -23,6 +30,6 @@ To build we followed the following steps:
 1. Adding functionality to scroll to sections.
 1. Refactoring and testing the performance.
 
-### Demo => https://book-shop-store.netlify.app
+#### Demo => https://book-shop-store.netlify.app
 
 #Run it with live server...
