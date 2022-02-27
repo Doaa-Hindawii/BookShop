@@ -31,5 +31,3 @@ To build we followed the following steps:
 1. Refactoring and testing the performance.
 
 #### Demo => https://book-shop-store.netlify.app
-
-#Run it with live server...
